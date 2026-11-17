@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Ray vs PyTorch
+# ⚔️ Ray vs PyTorch
 
 Performance comparison of Ray and PyTorch across machine learning and big data workloads: K-Means, PageRank and image classification. Developed for the NTUA course Analysis and Design of Information Systems.
 
