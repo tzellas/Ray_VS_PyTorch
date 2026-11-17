@@ -1,12 +1,18 @@
-# Ray_VS_PyTorch
-Performance comparison between Ray and PyTorch, across different Machine Learning and Big Data related operations. It is developed as a project for the NTUA course Analysis and Design of Information Systems.
+<div align="center">
 
-## Our Team Members:
-Full Name | NTUA id number (ΑΜ) | Github
-| :---: | :---: | :---:
-Λιάγκα Αικατερίνη  | el17208 | [Katerina Liagka](https://github.com/LiagkaAikaterini)
-Λιάγκας Νικόλαος  | el19221 | [Nikos Liagkas](https://github.com/NikosLiagkas)
-Τζέλλας Απόστολος-Στέφανος | el19878 | [Apostolos Tzellas](https://github.com/tzellas)
+# ⚡ Ray vs PyTorch
+
+Performance comparison of Ray and PyTorch across machine learning and big data workloads: K-Means, PageRank and image classification. Developed for the NTUA course Analysis and Design of Information Systems.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=white)
+
+<sub>Authors · [Apostolos Tzellas](https://github.com/tzellas) · [Nikos Liagkas](https://github.com/NikosLiagkas) · [Katerina Liagka](https://github.com/LiagkaAikaterini)</sub>
+
+</div>
+
+---
 
 ## Project Overview
 Our research delved into an in-depth comparative analysis of Ray and PyTorch, highlighting each frameworks’ strengths and weaknesses, providing insight into the optimal use cases for each framework in real-world scenarios.
