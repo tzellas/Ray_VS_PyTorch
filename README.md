@@ -6,7 +6,7 @@ Full Name | NTUA id number (ΑΜ) | Github
 | :---: | :---: | :---:
 Λιάγκα Αικατερίνη  | el17208 | [Katerina Liagka](https://github.com/LiagkaAikaterini)
 Λιάγκας Νικόλαος  | el19221 | [Nikos Liagkas](https://github.com/NikosLiagkas)
-Τζέλλας Απόστολος-Στέφανος | el19878 | [Apostolos Stefanos Tzellas](https://github.com/tzellas)
+Τζέλλας Απόστολος-Στέφανος | el19878 | [Apostolos Tzellas](https://github.com/tzellas)
 
 ## Project Overview
 Our research delved into an in-depth comparative analysis of Ray and PyTorch, highlighting each frameworks’ strengths and weaknesses, providing insight into the optimal use cases for each framework in real-world scenarios.
