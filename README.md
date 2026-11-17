@@ -7,6 +7,7 @@ Performance comparison of Ray and PyTorch across machine learning and big data w
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Ray](https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=white)
+![Hadoop HDFS](https://img.shields.io/badge/HDFS-66CCFF?logo=apachehadoop&logoColor=black)
 
 <sub>Authors · [Apostolos Tzellas](https://github.com/tzellas) · [Nikos Liagkas](https://github.com/NikosLiagkas) · [Katerina Liagka](https://github.com/LiagkaAikaterini)</sub>
 
@@ -22,7 +23,7 @@ We conducted 3 different experiments, which were implemented for both Ray and Py
 * **PageRank Algorithm:** We implemented the PageRank algorithm on different graph sizes to measure execution time and retrieve the 10 most significant nodes in each graph.
 * **X-Ray Image Classification:** We performed more complex deep learning tasks, such as classifing real chest X-ray images to detect pneumonia. We compared the frameworks in terms of training accuracy, loss convergence, and handling custom datasets.
 
-Our team executed the scripts with various number of nodes and utilized different data types and sizes, to test the frameworks' scalability. 
+Our team executed the scripts with various number of nodes and utilized different data types and sizes, to test the frameworks' scalability. The datasets are stored on HDFS and read from there by both frameworks, so the comparison covers distributed data loading as well as computation.
 
 ### Report
 Our [report](documents/report.pdf), which is located in the repository's documents folder, provides detailed instructions for installation and setup, listing all the necessary dependencies. It also contains details on the infrastracture, datasets and algorithms we utilized, as well as a thourough analysis of the experiments' results.
